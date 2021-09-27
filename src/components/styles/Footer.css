@@ -1,0 +1,10 @@
+h6 {
+  color: white;
+  font-style: inherit;
+  
+}
+
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
