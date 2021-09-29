@@ -1,10 +1,15 @@
 h6 {
   color: white;
   font-style: inherit;
-  
 }
 
-.Footer{
-    display: flex;
-    justify-content: flex-end;
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  align-items: center;
 }
